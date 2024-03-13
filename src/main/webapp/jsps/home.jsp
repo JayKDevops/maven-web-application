@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">My Jenkins deployment by JK </h1>
-<h1 align="center"> GitHub Webhook demo - JayKDevops</h1> 
-<h1 align="center"> Jenkins Devployment with the POLL SCM</h1>
+<h1 align="center">My Jenkins deployment by J </h1>
+<h1 align="center"> GitHub Webhook demo - J</h1> 
+<h1 align="center"> Jenkins Devployment using webhook push event</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
